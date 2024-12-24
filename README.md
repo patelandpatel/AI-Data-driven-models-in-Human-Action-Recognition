@@ -6,7 +6,7 @@ The project achieves an **84% accuracy** in detecting specific actions, such as 
 
 ---
 
-## Project Overview
+## Project Overview   
 
 Human Action Recognition is a critical task in computer vision with applications in surveillance, video analysis, and human-computer interaction. This project integrates CNN and LSTM to classify human actions effectively:
 - **CNNs** process each video frame to extract spatial features.
