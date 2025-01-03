@@ -1,5 +1,7 @@
 # AI Data-Driven Models in Human Action Recognition
 
+
+
 This repository implements a **Human Action Recognition System** by leveraging deep learning techniques for video classification. The system identifies human actions in videos by combining **Convolutional Neural Networks (CNNs)** for extracting spatial features and **Long Short-Term Memory (LSTM)** networks for analyzing temporal relationships between frames.
 
 The project achieves an **84% accuracy** in detecting specific actions, such as "hitting children themselves", "hitting children other", "They are just playing not hiting".
