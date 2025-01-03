@@ -5,7 +5,6 @@ This repository implements a **Human Action Recognition System** by leveraging d
 The project achieves an **84% accuracy** in detecting specific actions, such as "hitting children themselves", "hitting children other", "They are just playing not hiting".
 
 ---
-
 ## Project Overview   
 
 Human Action Recognition is a critical task in computer vision with applications in surveillance, video analysis, and human-computer interaction. This project integrates CNN and LSTM to classify human actions effectively:
